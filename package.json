@@ -1,0 +1,15 @@
+{
+  "name": "in-dev",
+  "version": "1.0.0",
+  "description": "check NODE_ENV if development not exist",
+  "main": "index.js",
+  "bin": {
+    "in-dev": "in-dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chemzqm/in-dev"
+  },
+  "author": "Qiming Zhao <chemzqm@gmail.com>",
+  "license": "MIT"
+}
