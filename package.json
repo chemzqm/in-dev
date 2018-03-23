@@ -1,5 +1,5 @@
 {
-  "name": "in-dev",
+  "name": "@chemzqm/in-dev",
   "version": "1.0.0",
   "description": "check NODE_ENV if development not exist",
   "main": "index.js",
